@@ -1,0 +1,30 @@
+{
+  "name": "clase6",
+  "version": "1.0.0",
+  "description": "Entrega - Clase 10\r Reemplazar en el package.json la linea 7 según el motor que se quiera utilizar. De la siguiente manera:",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src-ejs/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "pug": "^3.0.2",
+    "socket.io": "^4.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Driphie/DesafiosBack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Driphie/DesafiosBack/issues"
+  },
+  "homepage": "https://github.com/Driphie/DesafiosBack#readme"
+}
